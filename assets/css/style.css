@@ -348,7 +348,7 @@ h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background-image: url("assets/img/home/image-dekstop.jpg");
+  background-image: url("/img/home/image-dekstop.jpg");
   
   padding: 0;
 }
@@ -416,13 +416,13 @@ h6 {
 
 @media (min-width: 601px) {
   #hero {
-    background: url('assets/img/home/image-dekstop.jpg') repeat-x;
+    background: url('/img/home/image-dekstop.jpg') repeat-x;
   }
 }
 
 @media (max-width: 600px) {
   #hero {      
-     background: url('assets/img/home/image-mobile.jpg') repeat-x;
+     background: url('/img/home/image-mobile.jpg') repeat-x;
   }
 }
 
