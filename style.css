@@ -423,7 +423,7 @@ h6 {
 @media (max-width: 600px) {
   #hero {      
      background: url('image-mobile.jpg') repeat-x;
-    height: 800px;
+    height: 600px;
   }
 }
 
